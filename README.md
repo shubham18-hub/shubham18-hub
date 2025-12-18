@@ -2,18 +2,24 @@
 <!--  GitHub Profile README  -->
 <!-- ======================= -->
 
-<h1 align="center">Hey there 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Aspiring Software Developer | B.Tech CSE @ Graphic Era (Deemed to be University)</h3>
+<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
+<h3 align="center">
+🚀 Aspiring Software Developer | B.Tech CSE @ Graphic Era (Deemed to be University)
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham18-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Software+One+Project+at+a+Time;Learning+DSA+and+Backend+Development;Exploring+Cloud+and+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubham18-hub&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **second-year B.Tech Computer Science & Engineering student at Graphic Era (Deemed to be University)** who genuinely enjoys building software and understanding how systems work behind the scenes. I believe in learning by **writing code, debugging problems, and improving through hands-on projects**.
+I’m a **second-year B.Tech Computer Science & Engineering student at Graphic Era (Deemed to be University)** who enjoys building software and understanding how systems work behind the scenes. I believe in learning by **writing code, debugging problems, and improving through hands-on projects**.
 
 - 💻 Interested in **Software Development & Backend Engineering**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
@@ -30,47 +36,33 @@ I’m a **second-year B.Tech Computer Science & Engineering student at Graphic E
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html" />
 </p>
 
-- **C / C++** – Structured & system-level programming  
-- **Java** – OOP principles & application logic  
-- **Python (Basics)** – Scripting & algorithm practice  
-- **JavaScript & HTML** – Web fundamentals & logic  
-
----
-
 ### 🧩 Core Computer Science
-
-- Data Structures & Algorithms  
-  *(Linked Lists, Trees, Graphs, Stacks, Queues)*  
+- Data Structures & Algorithms (Linked Lists, Trees, Graphs, Stacks, Queues)  
 - Object-Oriented Programming (OOP)  
 - Problem Solving & Debugging  
 - Modular & Maintainable Code Design  
-
----
 
 ### ☁️ Cloud & Developer Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
 </p>
 
-- **AWS Basics:** S3, Lambda  
-- Git & GitHub (version control & collaboration)  
-- VS Code & Linux CLI (Basics)  
+- AWS Basics: **S3, Lambda**
+- Git & GitHub
+- Linux CLI (Basics)
 
 ---
 
 ## 📌 Featured Projects
 
-> ⭐ *Some projects that reflect my learning and growth*
-
 ### 📘 Study-Share — Notes Sharing Web App
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![AWS](https://img.shields.io/badge/AWS-Basics-blue)
 
-A **notes buying and selling web platform** built to explore web development and cloud fundamentals.  
-Focused on **UI flow, content listing, and understanding cloud-backed applications**.
+A **notes buying and selling web platform** built to explore web development and cloud fundamentals.
 
-🔗 **Repository:** [Study-Share](https://github.com/shubham18-hub/Study-Share)  
-🖼️ *Screenshot:* _(add project screenshot here)_
+🔗 **Repo:** https://github.com/shubham18-hub/Study-Share  
+🖼️ *Add screenshots/GIF here*
 
 ---
 
@@ -78,11 +70,9 @@ Focused on **UI flow, content listing, and understanding cloud-backed applicatio
 ![DSA](https://img.shields.io/badge/DSA-Trees%20%7C%20Graphs-green)
 ![Python](https://img.shields.io/badge/Python-Basics-yellow)
 
-A learning-focused project showcasing **DSA implementations and explanations** for structured revision and clarity.  
-Emphasis on **clean logic, readability, and algorithmic thinking**.
+A project showcasing **DSA implementations** with focus on logic clarity and learning.
 
-🔗 **Repository:** *(add repo link if public)*  
-🖼️ *Screenshot:* _(add screenshot or demo GIF)_
+🔗 **Repo:** *(Add when public)*
 
 ---
 
@@ -90,18 +80,15 @@ Emphasis on **clean logic, readability, and algorithmic thinking**.
 ![C](https://img.shields.io/badge/C-System%20Programming-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Application%20Logic-yellow)
 
-A **social media system prototype** built to understand application flow and user interaction logic.  
-Worked on **file handling, modular structure, and feature-based logic**.
+Built to understand **application flow, modular design, and user interaction logic**.
 
-🔗 **Repositories:**  
-- [ScialMediaProject (C)](https://github.com/shubham18-hub/ScialMediaProject)  
-- [Priority-Social-Media (JavaScript)](https://github.com/shubham18-hub/Priority-Social-Media)
-
-🖼️ *Screenshot:* _(add screenshot here)_
+🔗 **Repos:**  
+- https://github.com/shubham18-hub/ScialMediaProject  
+- https://github.com/shubham18-hub/Priority-Social-Media  
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubham18-hub&show_icons=true&theme=tokyonight" height="165"/>
@@ -120,22 +107,10 @@ Worked on **file handling, modular structure, and feature-based logic**.
   <a href="https://www.linkedin.com/in/18-shubham/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+  <a href="https://www.instagram.com/shubham._090/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-
----
-
-## ✨ Current Learning Goals
-
-- 🔍 Deepening **DSA & Algorithmic Thinking**
-- 🧩 Learning **Backend Development & Databases**
-- ☁️ Building **Cloud-backed Applications**
-- 🚀 Preparing for **SDE Internships & Placements**
 
 ---
 
