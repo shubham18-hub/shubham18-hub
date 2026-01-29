@@ -49,20 +49,21 @@ I'm a **second-year B.Tech Computer Science & Engineering student at Graphic Era
 
 | Language | Proficiency | Use Cases |
 |----------|-------------|-----------|
-| **C/C++** | ⭐⭐⭐⭐⭐ | System Programming, DSA Implementation |
+| **C/C++** | ⭐⭐⭐⭐⭐ | System Programming, DSA Implementation, Social Media Backend |
+| **Python** | ⭐⭐⭐⭐ | AI/ML Projects, Computer Vision, Trust Networks, Data Analysis |
+| **JavaScript** | ⭐⭐⭐⭐ | Web Development, Chrome Extensions, Frontend Logic, AI Systems |
 | **Java** | ⭐⭐⭐⭐ | Object-Oriented Programming, Backend Development |
-| **Python** | ⭐⭐⭐⭐ | Scripting, Data Analysis, Problem Solving |
-| **JavaScript** | ⭐⭐⭐ | Web Development, Frontend Logic |
-| **HTML/CSS** | ⭐⭐⭐ | Web Design, User Interface |
+| **HTML/CSS** | ⭐⭐⭐ | Web Design, User Interface, Responsive Design |
 
 </div>
 
 ### 🧩 Core Computer Science Concepts
 <div align="center">
   <img src="https://img.shields.io/badge/Data_Structures-Trees%20%7C%20Graphs%20%7C%20LinkedLists-22c55e?style=for-the-badge&logo=databricks" />
-  <img src="https://img.shields.io/badge/Algorithms-Sorting%20%7C%20Searching%20%7C%20DP-3b82f6?style=for-the-badge&logo=algorithm" />
-  <img src="https://img.shields.io/badge/OOP-Encapsulation%20%7C%20Inheritance%20%7C%20Polymorphism-a855f7?style=for-the-badge&logo=object" />
-  <img src="https://img.shields.io/badge/Problem_Solving-Debugging%20%7C%20Optimization-f59e0b?style=for-the-badge&logo=lightbulb" />
+  <img src="https://img.shields.io/badge/Algorithms-Sorting%20%7C%20Searching%20%7C%20ML-3b82f6?style=for-the-badge&logo=algorithm" />
+  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV%20%7C%20Gesture%20Recognition-a855f7?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/AI/ML-TensorFlow%20%7C%20Trading%20Systems-f59e0b?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/System_Design-Architecture%20%7C%20Scalability-ef4444?style=for-the-badge&logo=architecture" />
 </div>
 
 ### ☁️ Cloud & Developer Tools
@@ -72,6 +73,7 @@ I'm a **second-year B.Tech Computer Science & Engineering student at Graphic Era
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-S3%20%7C%20Lambda%20%7C%20EC2-ff9900?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Chrome_APIs-Extension%20Development-4285f4?style=for-the-badge&logo=googlechrome" />
   <img src="https://img.shields.io/badge/Git-Version%20Control-f05032?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Linux-CLI%20%7C%20Bash-fcc624?style=for-the-badge&logo=linux" />
 </div>
@@ -86,6 +88,7 @@ I'm a **second-year B.Tech Computer Science & Engineering student at Graphic Era
   <img src="https://img.shields.io/badge/HTML5-Frontend-e34f26?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/JavaScript-Logic-f7df1e?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/CSS3-Styling-1572b6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge" />
 </div>
 
 **A comprehensive social media platform with priority-based content delivery and multimedia support**
@@ -102,20 +105,99 @@ I'm a **second-year B.Tech Computer Science & Engineering student at Graphic Era
 
 ---
 
+### 🤖 Local Trade Mediator AI
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-AI%20Logic-f7df1e?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-ff6b6b?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Trading-Automation-4ecdc4?style=for-the-badge&logo=chart-line" />
+</div>
+
+**An AI-powered local trade mediation system for automated trading decisions and market analysis**
+
+✨ **Key Features:**
+- 🤖 Intelligent trade mediation algorithms
+- 📊 Real-time market data analysis
+- � Automated decision-making system
+- � Local trading optimization
+
+🔗 **Repository:** [Local-Trade-Mediator-AI](https://github.com/shubham18-hub/Local-Trade-Mediator-AI)
+
+---
+
+### 🔗 TrustGraph Engine
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Backend-3776ab?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Graph-Theory-22c55e?style=for-the-badge&logo=graphql" />
+  <img src="https://img.shields.io/badge/Trust-Network-a855f7?style=for-the-badge&logo=shield" />
+</div>
+
+**A Python-based trust network engine for building and analyzing trust relationships in distributed systems**
+
+✨ **Features:**
+- 🕸️ Graph-based trust network modeling
+- � Trust score calculation algorithms
+- 📊 Network analysis and visualization
+- �️ Security and reliability metrics
+
+�🔗 **Repository:** [trustgraph-engine](https://github.com/shubham18-hub/trustgraph-engine)
+
+---
+
+### 🏥 Health Guard Chrome Extension
+<div align="center">
+  <img src="https://img.shields.io/badge/Chrome-Extension-4285f4?style=for-the-badge&logo=googlechrome" />
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-f7df1e?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Health-Monitoring-22c55e?style=for-the-badge&logo=heart" />
+</div>
+
+**A Chrome extension designed to monitor and promote healthy browsing habits and digital wellness**
+
+✨ **Health Features:**
+- ⏰ Screen time tracking and alerts
+- 👁️ Eye strain prevention reminders
+- 🧘 Break time notifications
+- 📊 Daily health metrics dashboard
+- 🚫 Harmful content filtering
+
+🔗 **Repository:** [chrome-extension-](https://github.com/shubham18-hub/chrome-extension-)
+
+---
+
+### 🎭 Gesture Meme Changer
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Computer%20Vision-3776ab?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/OpenCV-Image%20Processing-5c3ee8?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/ML-Gesture%20Recognition-ff6b6b?style=for-the-badge&logo=tensorflow" />
+</div>
+
+**A fun computer vision project that changes memes based on hand gestures using machine learning**
+
+✨ **Features:**
+- 👋 Real-time hand gesture recognition
+- 🎭 Dynamic meme selection and display
+- 📷 Webcam integration
+- 🤖 Machine learning-powered gesture detection
+- 😄 Interactive entertainment experience
+
+🔗 **Repository:** [gesture-meme-changer](https://github.com/shubham18-hub/gesture-meme-changer)
+
+---
+
 ### 📘 Study-Share — Notes Sharing Platform
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-Frontend-e34f26?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Basics-ff9900?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Integration-ff9900?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/JavaScript-Logic-f7df1e?style=for-the-badge&logo=javascript" />
 </div>
 
-**A notes buying and selling web platform built to explore web development and cloud fundamentals**
+**A comprehensive notes buying and selling web platform built to explore web development and cloud fundamentals**
 
 ✨ **Features:**
-- 📚 User-friendly notes sharing interface
-- ☁️ AWS integration for file storage
+- 📚 User-friendly notes sharing marketplace
+- ☁️ AWS integration for secure file storage
 - 🔐 Secure user authentication system
-- 💰 Built-in marketplace functionality
+- 💰 Built-in payment and transaction system
+- 🔍 Advanced search and filtering
 
 🔗 **Repository:** [Study-Share](https://github.com/shubham18-hub/Study-Share)
 
@@ -125,15 +207,16 @@ I'm a **second-year B.Tech Computer Science & Engineering student at Graphic Era
 <div align="center">
   <img src="https://img.shields.io/badge/C-System%20Programming-00599c?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/Data_Structures-Implementation-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forked-Learning%20Project-6366f1?style=for-the-badge&logo=git" />
 </div>
 
-**Built to understand application flow, modular design, and user interaction logic**
+**Social media system for PBL - Built to understand application flow, modular design, and user interaction logic**
 
 ✨ **Learning Focus:**
-- 🧠 Data structures implementation
-- 🔄 System design patterns
-- 📊 Memory management
-- 🎯 Modular programming
+- 🧠 Data structures implementation (Linked Lists, Trees, Graphs)
+- 🔄 System design patterns and architecture
+- 📊 Memory management and optimization
+- 🎯 Modular programming principles
 
 🔗 **Repository:** [ScialMediaProject](https://github.com/shubham18-hub/ScialMediaProject)
 
@@ -170,10 +253,11 @@ I'm a **second-year B.Tech Computer Science & Engineering student at Graphic Era
 
 | 🎯 Goal | 📅 Timeline | 📊 Progress |
 |---------|-------------|-------------|
-| **Advanced DSA** | 6 months | ![Progress](https://progress-bar.dev/75/?scale=100&title=Progress&width=120&color=22c55e) |
-| **System Design** | 4 months | ![Progress](https://progress-bar.dev/60/?scale=100&title=Progress&width=120&color=3b82f6) |
-| **AWS Certification** | 8 months | ![Progress](https://progress-bar.dev/40/?scale=100&title=Progress&width=120&color=a855f7) |
-| **Open Source Contributions** | Ongoing | ![Progress](https://progress-bar.dev/30/?scale=100&title=Progress&width=120&color=f59e0b) |
+| **Advanced DSA & System Design** | 6 months | ![Progress](https://progress-bar.dev/75/?scale=100&title=Progress&width=120&color=22c55e) |
+| **AI/ML & Computer Vision** | 5 months | ![Progress](https://progress-bar.dev/65/?scale=100&title=Progress&width=120&color=3b82f6) |
+| **Chrome Extension Development** | 3 months | ![Progress](https://progress-bar.dev/80/?scale=100&title=Progress&width=120&color=a855f7) |
+| **AWS Cloud Architecture** | 8 months | ![Progress](https://progress-bar.dev/45/?scale=100&title=Progress&width=120&color=f59e0b) |
+| **Open Source Contributions** | Ongoing | ![Progress](https://progress-bar.dev/35/?scale=100&title=Progress&width=120&color=ef4444) |
 
 </div>
 
